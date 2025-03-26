@@ -13,3 +13,4 @@ let result = () =>{
 let empty = () =>{
     input.value = ""
 }
+console.log("updates");
